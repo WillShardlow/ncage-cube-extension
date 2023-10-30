@@ -26,6 +26,8 @@ out/
 build/
 dist/
 
+/keys.json
+
 # plasmo
 .plasmo
 
